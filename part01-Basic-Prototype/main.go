@@ -1,8 +1,8 @@
 package main
 
 import (
+	"PublicChain/part01-Basic-Prototype/BLC"
 	"fmt"
-	"publicChain/part01-Basic-Prototype/BLC"
 )
 
 func main() {
